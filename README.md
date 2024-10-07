@@ -1,1 +1,1 @@
-# Sleep_Posture_and_Subject_Classification
+# Sleep Posture and Subject Classification using multitask convolutional neural network (CNN)
